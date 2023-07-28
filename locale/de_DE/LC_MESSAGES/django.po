@@ -6336,7 +6336,7 @@ msgstr "hat <a href=\"%(book_path)s\">%(book)s</a> bewertet:"
 #: bookwyrm/templates/snippets/status/headers/read.html:10
 #, python-format
 msgid "finished reading <a href=\"%(book_path)s\">%(book)s</a> by <a href=\"%(author_path)s\">%(author_name)s</a>"
-msgstr "<a href=\"%(book_path)s\">%(book)s</a> von <a href=\"%(author_path)s\">%(author_name)s</a> zu Ende gelesen"
+msgstr "hat <a href=\"%(book_path)s\">%(book)s</a> von <a href=\"%(author_path)s\">%(author_name)s</a> zu Ende gelesen"
 
 #: bookwyrm/templates/snippets/status/headers/read.html:17
 #, python-format
